@@ -1,0 +1,10 @@
+{
+    //----------- File configuration --------------
+    // When enabled, will trim trailing whitespace when you save a file.
+    "files.trimTrailingWhitespace": true,
+
+    //----------- PowerShell Configuration ---------
+
+    // Ues a custom PowerShell Script Analyzer settings file for this workspace.
+    //"powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1"
+}
